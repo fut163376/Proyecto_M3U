@@ -9,20 +9,20 @@ python3 extraer_zeronet.py
 cd ../../
 
 # Extracción de Telegram
-cd Fuentes/Telegram
-python3 extraer_telegram.py
-cd ../../
+#cd Fuentes/Telegram
+#python3 extraer_telegram.py
+#cd ../../
 
 # Extracción de VK
-cd Fuentes/VK_Video
-python3 extraer_vk.py
-cd ../../
+#cd Fuentes/VK_Video
+#python3 extraer_vk.py
+#cd ../../
 
 # Unificar las listas en la carpeta App
 echo "Unificando listas..."
 cd App
-python3 unir_listas.py  # Este script unirá las listas y generará lista_final.m3u
-cd ../../
+python3 unir_listas.py
+cd ../
 
 # Subir a GitHub
 echo "Subiendo a GitHub..."
