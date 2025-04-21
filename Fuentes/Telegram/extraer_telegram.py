@@ -7,8 +7,9 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaWebPage
 import os
 
-api_id = 23489544  # tu API ID
-api_hash = '13a6295b41088add583289a62445559f'  # tu API HASH
+# Configuración de la API
+api_id = 23489544
+api_hash = '13a6295b41088add583289a62445559f'
 
 # Lista de nombres exactos de los grupos (como aparecen en la app de Telegram)
 nombres_grupos = [
@@ -20,8 +21,10 @@ nombres_grupos = [
     "CH1"
 ]
 
+# Ruta de salida del archivo .m3u
 salida = os.path.join(os.path.dirname(__file__), 'telegram_resultado.m3u')
 
+# Función para extraer enlaces de transmisiones en los mensajes
 def extraer_streamings(mensajes):
     links = []
     for msg in mensajes:
@@ -35,22 +38,24 @@ def extraer_streamings(mensajes):
                     links.append(word)
     return links
 
+# Inicio de sesión con el cliente de Telegram
 with TelegramClient('session', api_id, api_hash) as client:
     print("Sesión iniciada correctamente.")
     enlaces_finales = []
 
-    for nombre in nombres_grupos:
-        try:
-            print(f"Accediendo al grupo: {nombre}")
-            entidad = client.get_entity(nombre)
-            mensajes = client.iter_messages(entidad, limit=100)
-            links = extract_live_streams(mensajes)
-            print(f"  → {len(links)} enlaces encontrados.")
-            enlaces_finales.extend(links)
-        except Exception as e:
-            print(f"Error al procesar el grupo '{nombre}': {e}")
+    for dialog in client.iter_dialogs():
+        if dialog.is_group or dialog.is_channel:
+            if dialog.name in nombres_grupos:
+                try:
+                    print(f"Accediendo al grupo: {dialog.name}")
+                    mensajes = client.iter_messages(dialog.entity, limit=100)
+                    links = extraer_streamings(mensajes)
+                    print(f"  → {len(links)} enlaces encontrados.")
+                    enlaces_finales.extend(links)
+                except Exception as e:
+                    print(f"Error al procesar el grupo '{dialog.name}': {e}")
 
-    # Guardar archivo .m3u
+    # Guardar archivo M3U
     with open(salida, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n")
         for link in enlaces_finales:
