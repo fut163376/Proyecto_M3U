@@ -1,8 +1,8 @@
 import os
 
 fuentes = [
-#    "../Fuentes/Zeronet/lista_zeronet.m3u",
-    "../Fuentes/Telegram/lista_telegram.m3u"
+    "../Fuentes/Zeronet/lista_zeronet.m3u"
+#    "../Fuentes/Telegram/lista_telegram.m3u",
 #    "../Fuentes/VK_Video/lista_vk.m3u"
 ]
 
