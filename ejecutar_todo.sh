@@ -27,9 +27,9 @@ cd ../
 # Subir a GitHub
 echo "Subiendo a GitHub..."
 git add .
-git commit -m "Actualizar lista final"
-git push origin master
-echo "Archivos subidos--> URL: https://github.com/fut163376/Proyecto_M3U/blob/master/App/lista_final.m3u "
+git commit -m "Actualización automática de la lista: $(date '+%Y-%m-%d %H:%M:%S')"
+git push
+echo "Archivos subidos --> URL: https://github.com/fut163376/Proyecto_M3U/blob/master/App/lista_final.m3u "
 
 # Levantar servidor o cualquier otra acción final
 #echo "Levantando servidor..."
