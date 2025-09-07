@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La Liga Hypermotion 1" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Deportes",La Liga Hypermotion 1
+https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?vidictid=203382665003&id=122364&pk=a0e9bf0c7c5877d8cc5cc1e5d1a26f92ba913bd6fee37fec83c28d3af7fef4fcea328ba5d2b53b52159a1d095fe298f7b41e5fe177168610558e06730bbf3715
+
+#EXTINF:-1 tvg-id="" tvg-name="Dazn F1" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deportes",Dazn F1
+https://muc200.myluck1.top:8088/live/f1xfutdhn20/playlist.m3u8?vidictid=203389142988&id=122387&pk=a0e9bf0c7c5877d8cc5cc1e5d1a26f92ba913bd6fee37fec83c28d3af7fef4fcea328ba5d2b53b52159a1d095fe298f7b41e5fe177168610558e06730bbf3715
