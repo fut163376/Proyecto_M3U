@@ -4,3 +4,92 @@ https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?vidictid=2033826
 
 #EXTINF:-1 tvg-id="" tvg-name="Dazn F1" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deportes",Dazn F1
 https://muc200.myluck1.top:8088/live/f1xfutdhn20/playlist.m3u8?vidictid=203389142988&id=122387&pk=a0e9bf0c7c5877d8cc5cc1e5d1a26f92ba913bd6fee37fec83c28d3af7fef4fcea328ba5d2b53b52159a1d095fe298f7b41e5fe177168610558e06730bbf3715
+
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1,MOVISTAR LA LIGA FHD OPC2
+https://deportes2.ksdjugfsddeports.com:9091/51_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=5ab683c712ede45e6cd377206b10bc46145f725c-642cbfe2c9138037b38a472b3cbc3035-1757521225-1757499625
+#EXTINF:-1,DAZN LA LIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1,DAZN LA LIGA FHD OPC2
+https://deportes2.ksdjugfsddeports.com:9091/43_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=3521080de1d73164a71fbba29da59341293d234f-3e8b8af687cb281073f0c7ee9a5319a6-1757517170-1757495570
+#EXTINF:-1,SKY SPORTS LA LIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
+#EXTINF:-1,MOVISTAR L. CAMPEONES FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
+#EXTINF:-1,MOVISTAR L. CAMPEONES FHD OPC2
+https://deportes2.ksdjugfsddeports.com:9091/44_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=20d55770e9a73fd54964613bc1e7d484e4a6e832-1f31a4652febd62c387346992da91c19-1757517294-1757495694
+#EXTINF:-1,DAZN F1 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
+#EXTINF:-1,DAZN F1 FHD OPC2
+https://deportes2.ksdjugfsddeports.com:9091/42_/tracks-v1/mono.ts.m3u8?remote=150.214.205.80&token=3f8deb99d1de83a473e1a8906b2ee6635e7c7d4a-fae696f20a812c0896920e39273d250f-1757517177-1757495577
+#EXTINF:-1,BEIN SPORTS XTRA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
+#EXTINF:-1,BEIN SPORTS XTRA FHD OPC2
+https://deportes2.ksdjugfsddeports.com:9091/47_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=06f937522caad7e6176f2fadf821d6682b488d05-b482911cfc33277fe4a97381515d85ed-1757517182-1757495582
+
+#EXTINF:-1,ESPN PREMIUM AR FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
+#EXTINF:-1,ESPN FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
+#EXTINF:-1,ESPN 2 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
+#EXTINF:-1,ESPN 3 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
+#EXTINF:-1,ESPN MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
+#EXTINF:-1,ESPN 2 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
+#EXTINF:-1,ESPN 3 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
+#EXTINF:-1,ESPN 4 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1,ESPN 5 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
+#EXTINF:-1,ESPN 6 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=67&f=.ts
+#EXTINF:-1,ESPN 7 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=68&f=.ts
+#EXTINF:-1,ESPN ARGENTINA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1,ESPN PREMIUM ARGENTINA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1,ESPN 4 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
+#EXTINF:-1,ESPN 5 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
+
+#EXTINF:-1,FOX SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+#EXTINF:-1,FOX SPORTS 2 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+#EXTINF:-1,FOX SPORTS 3 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+#EXTINF:-1,FOX SPORTS MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
+#EXTINF:-1,FOX SPORTS 2 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
+#EXTINF:-1,FOX SPORTS 3 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
+
+#EXTINF:-1,DIRECTV SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
+#EXTINF:-1,DIRECTV SPORTS 2 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
+#EXTINF:-1,DIRECTV SPORTS PLUS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
+#EXTINF:-1,DIRECTV SPORTS FIGHT FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=81&f=.ts
+
+#EXTINF:-1,WIN SPORTS PLUS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
+#EXTINF:-1,WIN SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
+#EXTINF:-1,TNT SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
+#EXTINF:-1,TNT SPORTS FHD OPC2
+https://deportes2.ksdjugfsddeports.com:9091/4_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=148a3fe179c94541430e0699fbfc4925f3d3cc9d-b36384c1b20d10b82ce72e6ffd33ffba-1757517425-1757495825
+#EXTINF:-1,TNT SPORTS CHILE FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
+#EXTINF:-1,TYC SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=3&f=.ts
