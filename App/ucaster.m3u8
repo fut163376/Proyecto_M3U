@@ -4,14 +4,8 @@
 #EXTINF:-1 tvg-id="LaLiga1porMovistarPlusPlus.es" tvg-name="MOVISTAR LA LIGA FHD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Liga",MOVISTAR LA LIGA FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
 
-#EXTINF:-1 tvg-id="LaLiga1porMovistarPlusPlus.es" tvg-name="MOVISTAR LA LIGA FHD OPC2" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Liga",MOVISTAR LA LIGA FHD OPC2
-https://deportes2.ksdjugfsddeports.com:9091/51_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=5ab683c712ede45e6cd377206b10bc46145f725c-642cbfe2c9138037b38a472b3cbc3035-1757521225-1757499625
-
 #EXTINF:-1 tvg-id="DAZNLaLiga.uk" tvg-name="DAZN LA LIGA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Liga",DAZN LA LIGA FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
-
-#EXTINF:-1 tvg-id="DAZNLaLiga.uk" tvg-name="DAZN LA LIGA FHD OPC2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Liga",DAZN LA LIGA FHD OPC2
-https://deportes2.ksdjugfsddeports.com:9091/43_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=3521080de1d73164a71fbba29da59341293d234f-3e8b8af687cb281073f0c7ee9a5319a6-1757517170-1757495570
 
 #EXTINF:-1 tvg-id="SkySportLaliga.de" tvg-name="SKY SPORTS LA LIGA FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" group-title="Liga",SKY SPORTS LA LIGA FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
@@ -19,20 +13,11 @@ https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
 #EXTINF:-1 tvg-id="LigadeCampeones1porMovistarPlusPlus.es" tvg-name="MOVISTAR L. CAMPEONES FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Liga",MOVISTAR L. CAMPEONES FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
 
-#EXTINF:-1 tvg-id="LigadeCampeones1porMovistarPlusPlus.es" tvg-name="MOVISTAR L. CAMPEONES FHD OPC2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Liga",MOVISTAR L. CAMPEONES FHD OPC2
-https://deportes2.ksdjugfsddeports.com:9091/44_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=20d55770e9a73fd54964613bc1e7d484e4a6e832-1f31a4652febd62c387346992da91c19-1757517294-1757495694
-
 #EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1 FHD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deportes",DAZN F1 FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
 
-#EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1 FHD OPC2" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deportes",DAZN F1 FHD OPC2
-https://deportes2.ksdjugfsddeports.com:9091/42_/tracks-v1/mono.ts.m3u8?remote=150.214.205.80&token=3f8deb99d1de83a473e1a8906b2ee6635e7c7d4a-fae696f20a812c0896920e39273d250f-1757517177-1757495577
-
 #EXTINF:-1 tvg-id="beinsports.es" tvg-name="BEIN SPORTS XTRA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" group-title="Deportes",BEIN SPORTS XTRA FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
-
-#EXTINF:-1 tvg-id="beinsports.es" tvg-name="BEIN SPORTS XTRA FHD OPC2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" group-title="Deportes",BEIN SPORTS XTRA FHD OPC2
-https://deportes2.ksdjugfsddeports.com:9091/47_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=06f937522caad7e6176f2fadf821d6682b488d05-b482911cfc33277fe4a97381515d85ed-1757517182-1757495582
 
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="ESPN PREMIUM AR FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Deportes",ESPN PREMIUM AR FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
@@ -117,9 +102,6 @@ https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
 
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="Deportes",TNT SPORTS FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
-
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT SPORTS FHD OPC2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="Deportes",TNT SPORTS FHD OPC2
-https://deportes2.ksdjugfsddeports.com:9091/4_/tracks-v1a1/mono.ts.m3u8?remote=150.214.205.80&token=148a3fe179c94541430e0699fbfc4925f3d3cc9d-b36384c1b20d10b82ce72e6ffd33ffba-1757517425-1757495825
 
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT SPORTS CHILE FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="Deportes",TNT SPORTS CHILE FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
